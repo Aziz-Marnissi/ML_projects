@@ -52,6 +52,9 @@ I'm currently pursuing my engineering degree at **ENIT (École Nationale d'Ingé
 ![FPGA](https://img.shields.io/badge/FPGA-FF6C37?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge&logo=espressif&logoColor=white)
+
 
 </div>
 
@@ -158,6 +161,42 @@ I'm currently pursuing my engineering degree at **ENIT (École Nationale d'Ingé
 **💻 Tech Stack**: Python | Pandas | Matplotlib | Seaborn | Scikit-learn
 
 </details>
+# 🚀 Mes Projets Rust
+
+Bienvenue sur mon dépôt contenant plusieurs projets Rust pour l'apprentissage de la programmation système et orientée projet.
+
+## 🧩 Projets
+
+### 1. [Gestion des Clients](./client_manager)
+
+Un système CRUD pour gérer les employés et leurs enfants. Ce projet montre l'utilisation de `struct`, `Vec`, la lecture/écriture dans des fichiers, et une architecture modulaire en Rust.
+
+### 2. [Snake Game](./snake_game)
+
+Un jeu Snake simple en 2D utilisant la bibliothèque `piston_window`. Il s'agit de mon premier jeu graphique en Rust.
+
+### 3. [Jeu du Pendu (Hangman)](./hangman_game)
+
+Un jeu en ligne de commande où l'utilisateur tente de deviner un mot lettre par lettre. Pratique pour apprendre la gestion de chaînes, des boucles et des conditions.
+
+---
+
+## 📦 Technologies
+
+- 🦀 Rust (évidemment !)
+- piston_window (pour le Snake)
+- Architecture modulaire multi-fichiers
+- Gestion de projet avec Cargo
+
+---
+
+## 🔧 Exécution locale
+
+Pour lancer un projet :
+
+```bash
+cd nom_du_projet
+cargo run
 
 ---
 
