@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Aziz Marnissi! 👋</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Aspiring+Electrical+Engineer+%7C+ENIT;Embedded+Systems+%26+Robotics+Enthusiast;Machine+Learning+%7C+AI+%7C+Deep+Learning;Python+%7C+C%2FC%2B%2B+%7C+Rust+%7C+FPGA;Computer+Vision+%26+Data+Science)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Aspiring+Electrical+Engineer+%7C+ENIT;Embedded+Systems+%26+Robotics+Enthusiast;Machine+Learning+%7C+AI+%7C+Deep+Learning;Python+%7C+C%2FC%2B%2B+%7C+VHDL+%7C+FPGA;Computer+Vision+%26+Data+Science)](https://git.io/typing-svg)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=azizmarnissi&color=brightgreen&style=flat-square)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-marnissi)
@@ -32,7 +32,7 @@ I'm currently pursuing my engineering degree at **ENIT (École Nationale d'Ingé
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge&logo=verilog&logoColor=white)
 
 ### 🤖 Machine Learning & AI
 
@@ -43,7 +43,7 @@ I'm currently pursuing my engineering degree at **ENIT (École Nationale d'Ingé
 
 ### ⚙️ Systems & Embedded
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-FF6C37?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -90,6 +90,24 @@ Bienvenue sur mon dépôt contenant plusieurs projets Rust pour l'apprentissage 
 
 ---
 
+## 🔌 FPGA Projects (VHDL)
+
+<details>
+<summary><strong>🛠️ VHDL-Init</strong></summary>
+
+**Repo**: [github.com/Aziz-Marnissi/VHDL-Init](https://github.com/Aziz-Marnissi/VHDL-Init)  
+**Description**: Collection de projets VHDL de base pour apprendre le développement sur FPGA avec Xilinx Vivado / ModelSim.  
+**Contenu** :
+- Portes logiques (AND, OR, XOR…)
+- Compteur 4 bits
+- Afficheur 7 segments
+- Multiplexeurs / Démultiplexeurs
+- Machine à états
+
+</details>
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🥇 Machine Learning Portfolio
@@ -108,20 +126,6 @@ Imbalanced classification problem solved with Logistic Regression (Python, Seabo
 <summary><strong>🩺 Heart Disease Prediction</strong></summary>
 Healthcare ML model with clinical data preprocessing (Scikit-learn, Pandas)
 </details>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizmarnissi&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmarnissi&layout=compact&theme=radical&hide=html,css)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azizmarnissi&theme=radical)
-
-</div>
 
 ---
 
