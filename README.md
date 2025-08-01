@@ -1,13 +1,11 @@
-# Hi there, I'm Aziz Marnissi! 👋
-
 <div align="center">
+  <h1>Hi there, I'm Aziz Marnissi! 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Aspiring+Electrical+Engineer+%7C+ENIT;Embedded+Systems+%26+Robotics+Enthusiast;Machine+Learning+%7C+AI+%7C+Deep+Learning;Python+%7C+C%2FC%2B%2B+%7C+FPGA+Developer;Computer+Vision+%26+Data+Science)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Aspiring+Electrical+Engineer+%7C+ENIT;Embedded+Systems+%26+Robotics+Enthusiast;Machine+Learning+%7C+AI+%7C+Deep+Learning;Python+%7C+C%2FC%2B%2B+%7C+Rust+%7C+FPGA;Computer+Vision+%26+Data+Science)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=azizmarnissi&color=brightgreen&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-marnissi)
-[![IEEE Member](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org/)
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=azizmarnissi&color=brightgreen&style=flat-square)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-marnissi)
+  [![IEEE Member](https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org/)
 </div>
 
 ---
@@ -34,6 +32,7 @@ I'm currently pursuing my engineering degree at **ENIT (École Nationale d'Ingé
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🤖 Machine Learning & AI
 
@@ -42,21 +41,52 @@ I'm currently pursuing my engineering degree at **ENIT (École Nationale d'Ingé
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 📊 Data Visualization
+### ⚙️ Systems & Embedded
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Hardware & Embedded
-
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-FF6C37?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge&logo=espressif&logoColor=white)
-
 
 </div>
+
+---
+
+## 🦀 Rust Projects
+
+**🚀 Mes Projets Rust**  
+Bienvenue sur mon dépôt contenant plusieurs projets Rust pour l'apprentissage de la programmation système et orientée projet.
+
+<details>
+<summary><strong>📦 Gestion des Clients</strong></summary>
+
+**Description**: Un système CRUD pour gérer les employés et leurs enfants  
+**Technologies**:  
+- Utilisation avancée des structs et Vec  
+- Lecture/écriture de fichiers  
+- Architecture modulaire en Rust  
+</details>
+
+<details>
+<summary><strong>🎮 Snake Game</strong></summary>
+
+**Description**: Jeu Snake en 2D avec piston_window  
+**Technologies**:  
+- Bibliothèque graphique piston_window  
+- Gestion des entrées utilisateur  
+- Logique de jeu en Rust pur  
+</details>
+
+<details>
+<summary><strong>🪀 Jeu du Pendu (Hangman)</strong></summary>
+
+**Description**: Jeu de devinette de mots en CLI  
+**Technologies**:  
+- Gestion des chaînes de caractères  
+- Boucles et conditions complexes  
+- Interface console interactive  
+</details>
 
 ---
 
@@ -65,154 +95,19 @@ I'm currently pursuing my engineering degree at **ENIT (École Nationale d'Ingé
 ### 🥇 Machine Learning Portfolio
 
 <details>
-<summary><strong>📈 Gold Price Prediction Using Machine Learning</strong></summary>
-
-**🎯 Objective**: Predict Gold ETF (GLD) prices based on economic indicators
-
-**🔧 Key Features**:
-
-- 📊 Analyzed correlations between GLD, Crude Oil (USO), Silver (SLV), and S&P 500 (SPX)
-- 🌲 Implemented Random Forest Regressor for accurate predictions
-- 📈 Achieved high R² score with strong performance metrics
-- 🔍 Created comprehensive data visualizations and correlation heatmaps
-
-**💻 Tech Stack**: Python | Pandas | Matplotlib | Seaborn | Scikit-learn
-
+<summary><strong>📈 Gold Price Prediction</strong></summary>
+ML model predicting Gold ETF prices with Random Forest Regressor (Python, Pandas, Scikit-learn)
 </details>
 
 <details>
 <summary><strong>💳 Credit Card Fraud Detection</strong></summary>
-
-**🎯 Objective**: Detect fraudulent credit card transactions using ML
-
-**🔧 Key Features**:
-
-- ⚖️ Handled extreme class imbalance using under-sampling techniques
-- 🤖 Implemented Logistic Regression for binary classification
-- 📊 Created ROC curves and confusion matrix for model evaluation
-- 🔥 Built correlation heatmaps and distribution analysis
-
-**💡 Key Insights**: Fraudulent transactions typically involve smaller amounts than legitimate ones
-
-**💻 Tech Stack**: Python | Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn
-
-</details>
-
-<details>
-<summary><strong>📦 Sales Prediction with XGBoost</strong></summary>
-
-**🎯 Objective**: Predict retail outlet sales based on product and store attributes
-
-**🔧 Key Features**:
-
-- 🧹 Comprehensive data cleaning and preprocessing
-- 🏷️ Advanced categorical variable encoding
-- 🚀 XGBoost regression model implementation
-- 📊 MSE and R² metrics evaluation with visualization
-
-**💻 Tech Stack**: Python | Pandas | Seaborn | Matplotlib | Scikit-learn | XGBoost
-
-</details>
-
-<details>
-<summary><strong>🔥 Prédiction de Calories Brûlées</strong></summary>
-
-**🎯 Objective**: Predict calories burned during physical exercise
-
-**🔧 Key Features**:
-
-- 📁 Data fusion from multiple CSV files (exercise.csv & calories.csv)
-- 👥 Gender-based analysis and categorical encoding
-- 🤖 XGBoostRegressor for supervised regression
-- 📈 MAE evaluation with comprehensive EDA
-
-**💻 Tech Stack**: Python | Pandas | XGBoost | Matplotlib | Seaborn
-
+Imbalanced classification problem solved with Logistic Regression (Python, Seaborn, Matplotlib)
 </details>
 
 <details>
 <summary><strong>🩺 Heart Disease Prediction</strong></summary>
-
-**🎯 Objective**: Predict heart disease presence using clinical data
-
-**🔧 Key Features**:
-
-- 🏥 Clinical and lifestyle data preprocessing
-- 🤖 Logistic Regression model training
-- ✅ Strong accuracy achievement on test data
-- 📊 Performance metrics visualization
-
-**💻 Tech Stack**: Python | Pandas | Matplotlib | Scikit-learn
-
+Healthcare ML model with clinical data preprocessing (Scikit-learn, Pandas)
 </details>
-
-<details>
-<summary><strong>🚗 Car Price Prediction</strong></summary>
-
-**🎯 Objective**: Predict used car selling prices using ML
-
-**🔧 Key Features**:
-
-- 📈 Linear Regression and Lasso Regression comparison
-- 🏆 Achieved 87% R² score with Linear Regression
-- 🧹 Real-world automotive data cleaning and transformation
-- 📊 Actual vs. predicted price visualizations
-
-**💻 Tech Stack**: Python | Pandas | Matplotlib | Seaborn | Scikit-learn
-
-</details>
-# 🚀 Mes Projets Rust
-
-Bienvenue sur mon dépôt contenant plusieurs projets Rust pour l'apprentissage de la programmation système et orientée projet.
-
-## 🧩 Projets
-
-### 1. [Gestion des Clients](./client_manager)
-
-Un système CRUD pour gérer les employés et leurs enfants. Ce projet montre l'utilisation de `struct`, `Vec`, la lecture/écriture dans des fichiers, et une architecture modulaire en Rust.
-
-### 2. [Snake Game](./snake_game)
-
-Un jeu Snake simple en 2D utilisant la bibliothèque `piston_window`. Il s'agit de mon premier jeu graphique en Rust.
-
-### 3. [Jeu du Pendu (Hangman)](./hangman_game)
-
-Un jeu en ligne de commande où l'utilisateur tente de deviner un mot lettre par lettre. Pratique pour apprendre la gestion de chaînes, des boucles et des conditions.
-
----
-
-## 📦 Technologies
-
-- 🦀 Rust (évidemment !)
-- piston_window (pour le Snake)
-- Architecture modulaire multi-fichiers
-- Gestion de projet avec Cargo
-
----
-
-## 🔧 Exécution locale
-
-Pour lancer un projet :
-
-```bash
-cd nom_du_projet
-cargo run
-
----
-
-## 🎓 Education & Experience
-
-### 🏫 Education
-
-- **🎓 École Nationale d'Ingénieurs de Tunis (ENIT)**
-  - Engineering Degree in Electrical Engineering
-  - Specialization: Embedded Systems & Robotics
-
-### 💼 Professional Experience
-
-- **🌐 IEEE Member** (Oct 2024 - Present)
-  - Active participation in engineering community
-  - Continuous learning and professional development
 
 ---
 
@@ -222,7 +117,7 @@ cargo run
 
 ![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizmarnissi&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmarnissi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizmarnissi&layout=compact&theme=radical&hide=html,css)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azizmarnissi&theme=radical)
 
@@ -234,7 +129,7 @@ cargo run
 
 <div align="center">
 
-I'm always excited to collaborate on innovative projects and discuss emerging technologies in AI, robotics, and embedded systems!
+I'm always excited to collaborate on innovative projects and discuss emerging technologies!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-marnissi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziz.marnissi@example.com)
@@ -250,6 +145,6 @@ I'm always excited to collaborate on innovative projects and discuss emerging te
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
+**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
 
 </div>
